@@ -1,0 +1,14 @@
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน1\hw1\bin\Debug\netcoreapp3.1\hw1.exe
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน1\hw1\bin\Debug\netcoreapp3.1\hw1.deps.json
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน1\hw1\bin\Debug\netcoreapp3.1\hw1.runtimeconfig.json
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน1\hw1\bin\Debug\netcoreapp3.1\hw1.runtimeconfig.dev.json
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน1\hw1\bin\Debug\netcoreapp3.1\hw1.dll
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน1\hw1\bin\Debug\netcoreapp3.1\hw1.pdb
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน1\hw1\obj\Debug\netcoreapp3.1\hw1.csproj.AssemblyReference.cache
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน1\hw1\obj\Debug\netcoreapp3.1\hw1.GeneratedMSBuildEditorConfig.editorconfig
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน1\hw1\obj\Debug\netcoreapp3.1\hw1.AssemblyInfoInputs.cache
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน1\hw1\obj\Debug\netcoreapp3.1\hw1.AssemblyInfo.cs
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน1\hw1\obj\Debug\netcoreapp3.1\hw1.csproj.CoreCompileInputs.cache
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน1\hw1\obj\Debug\netcoreapp3.1\hw1.dll
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน1\hw1\obj\Debug\netcoreapp3.1\hw1.pdb
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน1\hw1\obj\Debug\netcoreapp3.1\hw1.genruntimeconfig.cache
