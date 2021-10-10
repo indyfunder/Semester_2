@@ -1,0 +1,14 @@
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน2\hw2_2edit\obj\Debug\netcoreapp3.1\hw2_2edit.csproj.AssemblyReference.cache
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน2\hw2_2edit\obj\Debug\netcoreapp3.1\hw2_2edit.GeneratedMSBuildEditorConfig.editorconfig
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน2\hw2_2edit\obj\Debug\netcoreapp3.1\hw2_2edit.AssemblyInfoInputs.cache
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน2\hw2_2edit\obj\Debug\netcoreapp3.1\hw2_2edit.AssemblyInfo.cs
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน2\hw2_2edit\obj\Debug\netcoreapp3.1\hw2_2edit.csproj.CoreCompileInputs.cache
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน2\hw2_2edit\bin\Debug\netcoreapp3.1\hw2_2edit.exe
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน2\hw2_2edit\bin\Debug\netcoreapp3.1\hw2_2edit.deps.json
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน2\hw2_2edit\bin\Debug\netcoreapp3.1\hw2_2edit.runtimeconfig.json
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน2\hw2_2edit\bin\Debug\netcoreapp3.1\hw2_2edit.runtimeconfig.dev.json
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน2\hw2_2edit\bin\Debug\netcoreapp3.1\hw2_2edit.dll
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน2\hw2_2edit\bin\Debug\netcoreapp3.1\hw2_2edit.pdb
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน2\hw2_2edit\obj\Debug\netcoreapp3.1\hw2_2edit.dll
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน2\hw2_2edit\obj\Debug\netcoreapp3.1\hw2_2edit.pdb
+E:\00KMUTT\Semester 2.1 (2021)\MDT211\GITHUB & HW\การบ้าน2\hw2_2edit\obj\Debug\netcoreapp3.1\hw2_2edit.genruntimeconfig.cache
